@@ -11,6 +11,12 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        dancing: ['Dancing Script', 'cursive'],
+        fjalla: ['Fjalla One', 'sans-serif'],
+        montserrat: ['Montserrat', 'sans-serif'],
+        raleway: ['Raleway', 'sans-serif'],
+      },
     },
   },
   plugins: [],
